@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}OKAN ÜLKER
+${licensePrefix}EMRE KÖRÜS
+${licensePrefix}MEHMET ALÝ CABÝOÐLU
+<#if licenseLast??>
+${licenseLast}
+</#if>
